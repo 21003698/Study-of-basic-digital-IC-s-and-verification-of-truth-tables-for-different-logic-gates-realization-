@@ -84,7 +84,7 @@ endmodule
 ```
 ## Output:
 Logic symbol & Truthtable
-![de1](https://user-images.githubusercontent.com/93427522/189666924-10ec67da-6799-42ed-9f9d-ff431798ce1a.png)
+![Screenshot 2022-09-13 080004](https://user-images.githubusercontent.com/93427522/189794412-9f6e0db3-b407-4f48-a4a7-ba4fc6c1fa0c.jpg)
 
 RTL realization
 
